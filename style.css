@@ -57,7 +57,7 @@
 }
 
 .icons {
-    font-size: 24px;
+    font-size: 35px;
     color: var(--icons-primary);
     margin-top: 8px;
 }
@@ -83,8 +83,8 @@
 .saweria {
   font-family: sans-serif ;
   color: red;
-  font-size: 15px;
-  border: 1px solid red;
+  font-size: 20px;
+  border: 2px solid red;
   padding: 2px;
 }
 
